@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\BTL2checkmemleak\main.cpp(189,32): warning C4018: '<=': signed/unsigned mismatch
+D:\BTL2checkmemleak\main.cpp(218,24): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(458,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(460,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(469,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(494,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(496,71): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(562,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(598,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(600,23): warning C4018: '>=': signed/unsigned mismatch
+D:\BTL2checkmemleak\main.cpp(624,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BTL2checkmemleak\main.cpp(668,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BTL2checkmemleak.vcxproj -> D:\BTL2checkmemleak\x64\Debug\BTL2checkmemleak.exe
